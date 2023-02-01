@@ -115,6 +115,9 @@ table{
     #columna-izquierda{
         display: none;
     }
+    #contacto{
+        display: none;
+    }
 }
 @media (max-width:1500px)  {
     #nombre{
